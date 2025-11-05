@@ -1,0 +1,5 @@
+{
+  "name": "Image Enhancer & BG Remover",
+  "description": "An AI-powered tool to effortlessly remove backgrounds from images and enhance their quality, all while optimizing for smaller file sizes. Upload a photo, choose an action, and download the improved result.",
+  "requestFramePermissions": []
+}
